@@ -1,0 +1,25 @@
+* {
+    margin: 0 auto;
+}
+table {
+    width: 70%;
+    background: buttonface;
+    border: solid #c0c0c0 1px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+th {
+    background: black;
+    border-radius: 4px;
+    color: white;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+td {
+    background: background;
+    border-radius: 4px;
+    border: solid #ededed;
+    padding: 5px 10px;
+}
